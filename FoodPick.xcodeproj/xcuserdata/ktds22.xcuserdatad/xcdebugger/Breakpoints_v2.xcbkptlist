@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FoodPick/StoreListTableViewController.swift"
+            timestampString = "525773487.736451"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "StoreListTableViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodPick.StoreListTableViewController.__deallocating_deinit"
+                  moduleName = "FoodPick"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ktds22/Desktop/Project/Foodpick1-master/FoodPick/StoreListTableViewController.swift"
+                  timestampString = "525773488.926039"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodPick.StoreListTableViewController.init (style : __C.UITableViewStyle) -&gt; FoodPick.StoreListTableViewController"
+                  moduleName = "FoodPick"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ktds22/Desktop/Project/Foodpick1-master/FoodPick/StoreListTableViewController.swift"
+                  timestampString = "525773488.929688"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodPick.StoreListTableViewController.__allocating_init (style : __C.UITableViewStyle) -&gt; FoodPick.StoreListTableViewController"
+                  moduleName = "FoodPick"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ktds22/Desktop/Project/Foodpick1-master/FoodPick/StoreListTableViewController.swift"
+                  timestampString = "525773488.931533"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodPick.StoreListTableViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; FoodPick.StoreListTableViewController"
+                  moduleName = "FoodPick"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ktds22/Desktop/Project/Foodpick1-master/FoodPick/StoreListTableViewController.swift"
+                  timestampString = "525773488.933239"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "57">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodPick.StoreListTableViewController.__allocating_init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; FoodPick.StoreListTableViewController"
+                  moduleName = "FoodPick"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ktds22/Desktop/Project/Foodpick1-master/FoodPick/StoreListTableViewController.swift"
+                  timestampString = "525773488.934926"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodPick.StoreListTableViewController.__allocating_init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;FoodPick.StoreListTableViewController&gt;"
+                  moduleName = "FoodPick"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ktds22/Desktop/Project/Foodpick1-master/FoodPick/StoreListTableViewController.swift"
+                  timestampString = "525773488.93725"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodPick.StoreListTableViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;FoodPick.StoreListTableViewController&gt;"
+                  moduleName = "FoodPick"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ktds22/Desktop/Project/Foodpick1-master/FoodPick/StoreListTableViewController.swift"
+                  timestampString = "525773488.939169"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
